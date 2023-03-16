@@ -1,5 +1,8 @@
 <?
-// fill one property according to another 
+// fill one property according to another
+
+// in this example we have array of brands with which we compare value from filled property "Brand"
+// after that fill property "Country" with corresponding value from array or write "China"
 
 $brandList = Array(
 	
